@@ -18,9 +18,6 @@ Foodyum is a full-stack web application built using the MERN stack (MongoDB, Exp
 - Node.js: JavaScript runtime environment for running server-side code.
 - JWT (JSON Web Tokens): Used for authentication and authorization.
 - Axios: Promise-based HTTP client for making requests to the backend API.
-- Tailwind css: Frontend framework for building responsive and mobile-first websites.
-
-## Getting Started
 
 ### Prerequisites
 
